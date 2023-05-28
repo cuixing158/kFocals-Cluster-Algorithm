@@ -1,0 +1,10 @@
+*.mat
+*.jpg
+*.png
+*.pdf
+*.asv
+*.weights
+
+!images/*.jpg
+!symbolicMathExample_images/*.png
+!demo_images/*.png
